@@ -1,4 +1,4 @@
-###  <br/> 🌈 Hi there, I'm gagagaga ⭐  <br/> <br/> <br/>
+###  <br/> 🌈 Hi there, I'm gagagaga ⭐  <br/> <br/>
 
 <!--
 **yoongagagaga/yoongagagaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

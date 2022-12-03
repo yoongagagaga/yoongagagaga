@@ -1,4 +1,4 @@
-###  <p align="center"> Hi there, I'm gagagaga  🌈⭐</p>  <br/> <br/>
+###<p align="center">🌈Hi there, I'm gagagaga⭐  </p>  <br/> <br/>
  
 <!--
 **yoongagagaga/yoongagagaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

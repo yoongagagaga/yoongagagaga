@@ -17,15 +17,9 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/yoongagagaga/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoongagagaga&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yoongagagaga's github stats" /></a> | <a 
 href="https://github.com/yoongagagaga/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoongagagaga&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=yoongagagaga&show_icons=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoongagagaga"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoongagagaga&layout=compact"/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>

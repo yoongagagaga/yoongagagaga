@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-@@ -14,11 +14,11 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <img src="https://github-readme-stats.vercel.app/api?username=yoongagagaga&show_icons=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoongagagaga"/>

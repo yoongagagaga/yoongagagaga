@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoongagagaga&layout=compact"/>
+
 
 <!--
 **yoongagagaga/yoongagagaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img src="https://github-readme-stats.vercel.app/api?username=yoongagagaga&show_icons=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoongagagaga"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoongagagaga&layout=compact"/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>

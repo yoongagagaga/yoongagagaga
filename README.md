@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/yoongagagaga/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoongagagaga&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/yoongagagaga/yoongagagaga.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoongagagaga&repo=yoongagagaga.github.io&theme=buefy" />
+</a>
+<br />
+<br />
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=yoongagagaga&show_icons=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoongagagaga"/>

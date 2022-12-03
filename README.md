@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/yoongagagaga/github-readme-stats">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoongagagaga&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/yoongagagaga/yoongagagaga.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoongagagaga&repo=yoongagagaga.github.io&theme=buefy" />
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoongagagaga&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 <br />
 <br />
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=yoongagagaga&show_icons=true"/>

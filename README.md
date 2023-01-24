@@ -7,7 +7,7 @@
 
 <br />
 <div >
-<code style="aspect-ratio:3/2 object-fit: contain mix-blend-mod: color-brin"><img width="8%" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="40" width="40"></code>
+<code style="aspect-ratio:3/2 object-fit: contain mix-blend-mod: color-brin"><img  src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="40" width="40"></code>
 <code><img width="8%" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="40" width="40" ></code>
 <code ><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
